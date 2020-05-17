@@ -1,0 +1,23 @@
+{
+  "name": "notion-custom-css-builder",
+  "version": "1.0.0",
+  "description": "Uses jiahaog/Nativefier to build Notion with my own custom CSS and Electron settings I do not really like Electron, but Notion is just so nice and easy to use.",
+  "main": "build",
+  "dependencies": {
+    "nativefier": "^8.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indirect/notion-custom-css-builder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indirect/notion-custom-css-builder/issues"
+  },
+  "homepage": "https://github.com/indirect/notion-custom-css-builder#readme"
+}
