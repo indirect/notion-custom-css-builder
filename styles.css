@@ -1,31 +1,40 @@
 div {
-    font-family: "Latin Modern Mono", !important;
+    font-family: "Latin Modern Mono", "LMMono10-Regular", OperatorMonoSSm-LightItalic, "Operator Mono for Powerline", OperatorMonoForPowerline-LightItalic !important;
     font-style: normal !important;
 }
 
 /* pink */
 div[style*="rgb(173, 26, 114)"] {
+    color: #F9D2EE !important;
+    fill: #F9D2EE !important;
+    outline: #F9D2EE !important;
 }
 
 /* mint */
 div[style*="rgb(15, 123, 108)"] {
+    color: #C4F4EE !important;
+    fill: #C4F4EE !important;
+    outline: #C4F4EE !important;
 }
 
 /* lavender */
 div[style*="rgb(105, 64, 165)"] {
+    color: #BFBCF0 !important;
+    fill: #BFBCF0 !important;
+    outline: #BFBCF0 !important;
 }
 
 /* pink background */
 div[style*="rgb(244, 223, 235)"] {
-    background: #F9D2EE !important;
+    background-color: #F9D2EE !important;
 }
 
 /* mint background */
 div[style*="rgb(221, 237, 234)"] {
-    background: #C4F4EE !important;
+    background-color: #C4F4EE !important;
 }
 
 /* lavender background */
 div[style*="rgb(234, 228, 242)"] {
-    background: #BFBCF0 !important;
+    background-color: #BFBCF0 !important;
 }
