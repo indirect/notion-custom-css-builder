@@ -1,5 +1,9 @@
 div {
     font-family: "Latin Modern Mono", "LMMono10-Regular", OperatorMonoSSm-LightItalic, "Operator Mono for Powerline", OperatorMonoForPowerline-LightItalic !important;
+    font-style: italic !important;
+}
+
+span[role=image] {
     font-style: normal !important;
 }
 
