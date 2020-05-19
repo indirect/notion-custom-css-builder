@@ -6,3 +6,7 @@ Builds a custom Electron app for Notion.so using `nativefier`.
 
 - `npm install`
 - `./build`
+
+### Result
+
+![screenshot](./screenshot.png)
