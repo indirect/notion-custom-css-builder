@@ -18,5 +18,5 @@ iconutil -c icns MyIcon.iconset
 rm -R MyIcon.iconset
 mv MyIcon.icns icon.icns
 
-./node_modules/.bin/nativefier --name "Cute Notion" "https://notion.so/cutieco" --inject ./styles.css --icon ./icon.icns --single-instance --verbose
+./node_modules/.bin/nativefier --name "Cute Notion" "https://notion.so/" --inject ./styles.css --icon ./icon.icns --single-instance --verbose
 rm icon.icns
